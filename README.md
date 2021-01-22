@@ -1,6 +1,6 @@
 # CalOSBA Service Centers Finder
 
-Survey to help find eligible CalOSBA service centers.
+Interactive survey that can used to help find elgible Califronia Small Business Assistance service centers that provide free one-on-one consulting and no-cost or low-cost trainings to help businesses get funded.
 
 # Docs v2
 
