@@ -74,15 +74,6 @@ function App() {
       <LanguageProvider>
         <Router>
           <Switch>
-            <Route exact path="/ca_services">
-              <Helmet>
-                <link
-                    rel="canonical"
-                    href="https://businessrelief.usdigitalresponse.org"
-                />
-              </Helmet>
-              <Landing ca_services={true} />
-            </Route>
             <Route exact path="/questions">
               <FormProvider>
                 <FormApp ca_services={true}/>
@@ -94,16 +85,20 @@ function App() {
               </FormProvider>
             </Route>
             <Route exact path="/">
-              <Landing
-                ca_services={true}
-              />
+              <Helmet>
+                <link
+                    rel="canonical"
+                    href="https://businessrelief.usdigitalresponse.org"
+                />
+              </Helmet>
+              <Landing/>
             </Route>
           </Switch>
           <Route
             path="/"
             render={() => {
               if (typeof gtag === "function") {
-                gtag("config", "G-1HRT1JRJBK");
+                gtag("config", "UA-64303373-19");
               }
               return null;
             }}
