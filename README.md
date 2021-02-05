@@ -1,24 +1,24 @@
 # CalOSBA Service Centers Finder
 
-Interactive survey that can used to help find elgible Califronia Small Business Assistance service centers that provide free one-on-one consulting and no-cost or low-cost trainings to help businesses get funded.
-
-# Docs v2
-
-This describes the new React-based form interface.
+Survey to help find eligible CalOSBA service centers.
 
 ## Development
 
 On the first run:
 
-  $ yarn install
+  $ yarn install 
 
-And then to test the form interface:
+Build the app:
+
+  $ yarn build
+
+Start a dev server on localhost:3000:
 
   $ yarn start
 
-This will open a browser window with just the form.
+## Development
 
-The contents of the form itself are defined in src/form.json
+Data is json
 
 ## Headers
 
