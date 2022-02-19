@@ -34,7 +34,7 @@
         "fullAddress": "1887 Monterey Road 2nd Floor, San Jose, CA 95112",
         "latitude": "37.3081846",
         "longitude": "-121.8695176",
-        "website": "www.svsbdc.org",
+        "website": "https://www.svsbdc.org",
         "phoneNumber": "(408) 385-9800",
         "socialMedia": "Facebook: https://www.facebook.com/ACCESSsbdc;  Instagram: https://www.instagram.com/accesssbdc/"
     },
@@ -54,7 +54,7 @@
         "latitude": "36.60947",
         "longitude": "-121.53437",
         "email": "info@albafarmers.org",
-        "website": "www.albafarmers.org",
+        "website": "https://www.albafarmers.org",
         "phoneNumber": "(831) 758-1469",
         "socialMedia": "FB, Instagram"
     },
@@ -74,7 +74,7 @@
         "latitude": "32.8231954",
         "longitude": "-117.158506",
         "email": "sbdc@abasd.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 8582772822,
         "socialMedia": "https://www.facebook.com/ABASD"
     },
@@ -114,7 +114,7 @@
         "latitude": "37.7784748",
         "longitude": "-122.2251041",
         "email": "dneel@anewamerica.org",
-        "website": "www.anewamerica.org",
+        "website": "https://www.anewamerica.org",
         "phoneNumber": 5105325240,
         "socialMedia": "@anewamicrobiz; @anewamerica.microbiz"
     },
@@ -134,7 +134,7 @@
         "latitude": "37.3413208",
         "longitude": "-121.8897911",
         "email": "alockett@anewamerica.org",
-        "website": "www.anewamerica.org",
+        "website": "https://www.anewamerica.org",
         "phoneNumber": 4083262669,
         "socialMedia": "@anewamicrobiz; @anewamerica.microbiz"
     },
@@ -231,7 +231,7 @@
         "latitude": "38.5572254",
         "longitude": "-121.4738348",
         "email": "sacramentombda@calasiancc.org",
-        "website": "www.sacramentombda.com",
+        "website": "https://www.sacramentombda.com",
         "phoneNumber": 9164467883
     },
     {
@@ -250,7 +250,7 @@
         "latitude": "38.5982141",
         "longitude": "-121.4456882",
         "email": "womensbusinesscenter@cacapital.org",
-        "website": "www.cacapital.org",
+        "website": "https://www.cacapital.org",
         "phoneNumber": 9164421729,
         "socialMedia": "Facebook: @Cacapitalfdc"
     },
@@ -289,7 +289,7 @@
         "latitude": "33.8537327",
         "longitude": "-118.2876517",
         "email": "samia@cmtc.com",
-        "website": "www.cmtc.com",
+        "website": "https://www.cmtc.com",
         "phoneNumber": 3102633060,
         "socialMedia": "Facebook: https://www.facebook.com/CMTCSolutions  Twitter: https://twitter.com/CMTCSolutions  Instagram: https://www.instagram.com/cmtc_california"
     },
@@ -308,7 +308,7 @@
         "fullAddress": "690 Knox Street Suite 200, Torrance, CA 90502",
         "latitude": "33.8537061",
         "longitude": "-118.2898093",
-        "website": "www.cmtc.com",
+        "website": "https://www.cmtc.com",
         "phoneNumber": "(310) 263-3000"
     },
     {
@@ -327,7 +327,7 @@
         "latitude": "38.5802572",
         "longitude": "-121.5059973",
         "email": "sbdc@metrochamber.org",
-        "website": "www.capitalregionsbdc.com ",
+        "website": "https://www.capitalregionsbdc.com ",
         "phoneNumber": 9163194268,
         "socialMedia": "FB/LinkedIn: Capital Region SBDC ; Twitter: @SacramentoSBDC"
     },
@@ -420,7 +420,7 @@
         "latitude": "33.73323",
         "longitude": "-116.23373",
         "email": "cvsmallbusiness@ociesbdc.com",
-        "website": "ociesmallbusiness.org",
+        "website": "https://ociesmallbusiness.org",
         "phoneNumber": 7608484096,
         "socialMedia": "@ociesbdc"
     },
@@ -440,7 +440,7 @@
         "latitude": "33.7680359",
         "longitude": "-116.3062148",
         "email": "kscanlan@cvwbc.org",
-        "website": "www.cvwbc.org",
+        "website": "https://www.cvwbc.org",
         "phoneNumber": 7603459200,
         "socialMedia": "www.facebook.com/CVWBC; https://twitter.com/CVWBC; https://www.instagram.com/cvwbc/"
     },
@@ -459,7 +459,7 @@
         "fullAddress": "26455 Rockwell Canyon Road, University Center Building - Room 272 Santa Clarita, CA 91355",
         "latitude": "34.4043812",
         "longitude": "-118.5705894",
-        "website": "cocsbdc.org",
+        "website": "https://cocsbdc.org",
         "phoneNumber": "(661) 362-5900",
         "socialMedia": "@sbdcnola"
     },
@@ -479,7 +479,7 @@
         "latitude": "32.8919727",
         "longitude": "-117.2259976",
         "email": "springboard@connect.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 8589641300,
         "socialMedia": "https://www.facebook.com/ConnectInSD"
     },
@@ -499,7 +499,7 @@
         "latitude": "38.0147002",
         "longitude": "-122.0255857",
         "email": "admin@contracostasbdc.org",
-        "website": "contracostasbdc.org",
+        "website": "https://contracostasbdc.org",
         "phoneNumber": 9252225228,
         "socialMedia": "californiasbdc"
     },
@@ -519,7 +519,7 @@
         "latitude": "35.3741822",
         "longitude": "-119.0209806",
         "email": "sbdc@csub.edu",
-        "website": "csubsbdc.com",
+        "website": "https://csubsbdc.com",
         "phoneNumber": 6616542856,
         "socialMedia": "https://www.facebook.com/CSUBakersfieldSBDC/"
     },
@@ -557,7 +557,7 @@
         "latitude": "32.7924769",
         "longitude": "-116.9616962",
         "email": "danielle.sparks@eastcountyedc.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 6192583670,
         "socialMedia": "https://www.facebook.com/EastCountyEDC"
     },
@@ -595,7 +595,7 @@
         "fullAddress": "13430 Hawthorne Blvd. Hawthorne, CA 902050",
         "latitude": "33.9102551",
         "longitude": "-118.3522511",
-        "website": "southbaysbdc.org",
+        "website": "https://southbaysbdc.org",
         "phoneNumber": "(310) 225-8277",
         "socialMedia": "facebook.com/southbaysbdc"
     },
@@ -615,7 +615,7 @@
         "latitude": "36.9108058",
         "longitude": "-121.7563887",
         "email": "info@elpajarocdc.org",
-        "website": "www.elpajarocdc.org",
+        "website": "https://www.elpajarocdc.org",
         "phoneNumber": 8317221224,
         "socialMedia": "@elpajarocdc (Facebook, Twitter)"
     },
@@ -635,7 +635,7 @@
         "latitude": "32.7180744",
         "longitude": "-117.1596088",
         "email": "lc@sandiegobusiness.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 6192348484,
         "socialMedia": "https://twitter.com/WTCSanDiego"
     },
@@ -655,7 +655,7 @@
         "latitude": "36.7388788",
         "longitude": "-119.7952114",
         "email": "Incubator@fresnodbh.org",
-        "website": "www.fresnoahf.org",
+        "website": "https://www.fresnoahf.org",
         "phoneNumber": 5592228705,
         "socialMedia": "Facebook: @fresnoahf, Twitter: @fresnoahf,  Instagram: @fresnoahf"
     },
@@ -693,7 +693,7 @@
         "latitude": "32.826666",
         "longitude": "-115.5765041",
         "email": "meredith@imperialalliance.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 7603129800,
         "socialMedia": "https://www.facebook.com/IVSBDC"
     },
@@ -713,7 +713,7 @@
         "latitude": "38.4816371",
         "longitude": "-120.846785",
         "email": "info@idrsinc.org",
-        "website": "www.nativebiz.org",
+        "website": "https://www.nativebiz.org",
         "phoneNumber": "(916) 482-5800",
         "socialMedia": "https://www.facebook.com/idrsacornproject, https://www.instagram.com/idrs_acorn_project/"
     },
@@ -751,7 +751,7 @@
         "latitude": "33.9827248",
         "longitude": "-117.3754429",
         "email": "pnolta@iesmallbusiness.com",
-        "website": "ociemsallbusiness.org",
+        "website": "https://ociemsallbusiness.org",
         "phoneNumber": 9517812345,
         "socialMedia": "@ociesbdc"
     },
@@ -791,7 +791,7 @@
         "latitude": "32.7494586",
         "longitude": "-117.0811682",
         "email": "adriana.taboada@rescue.org",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 6194406208,
         "socialMedia": "https://www.facebook.com/IRCsandiego"
     },
@@ -830,7 +830,7 @@
         "fullAddress": "4900 East Conant Street, Building O-2 Long Beach, CA 90808",
         "latitude": "33.8245336",
         "longitude": "-118.1354463",
-        "website": "longbeachsbdc.org",
+        "website": "https://longbeachsbdc.org",
         "phoneNumber": "(562) 938-5100",
         "socialMedia": "@LongBeachSBDC"
     },
@@ -868,7 +868,7 @@
         "fullAddress": "4900 East Conant Street Long Beach, CA 90808",
         "latitude": "33.8245336",
         "longitude": "-118.1354463",
-        "website": "SmallBizLA.org",
+        "website": "https://SmallBizLA.org",
         "phoneNumber": "(866) 588-SBDC",
         "socialMedia": "Twitter: @SBDCLosAngeles , Facebook: Los Angeles Regional SBDC Network @sbdclosangeles , LinkedIn: Los Angeles Regional SBDC Network"
     },
@@ -888,7 +888,7 @@
         "latitude": "34.0484039",
         "longitude": "-118.2435712",
         "email": "smallbiz@apisbp.org",
-        "website": "www.apisbp.org",
+        "website": "https://www.apisbp.org",
         "phoneNumber": 2134731605,
         "socialMedia": "T & FB: APISBP"
     },
@@ -908,7 +908,7 @@
         "latitude": "37.8102801",
         "longitude": "-122.2660091",
         "email": "Jessika@mainstreetlaunch.org",
-        "website": "www.mainstreetlaunch.org",
+        "website": "https://www.mainstreetlaunch.org",
         "phoneNumber": "(510) 763-4297",
         "socialMedia": "#MainStLaunch"
     },
@@ -928,7 +928,7 @@
         "latitude": "37.9798523",
         "longitude": "-122.5134504",
         "email": "Matthew@marinsbdc.org",
-        "website": "www.marinsbdc.org",
+        "website": "https://www.marinsbdc.org",
         "phoneNumber": "(415) 482-1819",
         "socialMedia": "Marin SBDC or Small Business Development Center"
     },
@@ -966,7 +966,7 @@
         "latitude": "35.2509659",
         "longitude": "-120.6753417",
         "email": "info@mcscorp.org",
-        "website": "www.mcscorp.org",
+        "website": "https://www.mcscorp.org",
         "phoneNumber": 8055951357
     },
     {
@@ -1005,7 +1005,7 @@
         "latitude": "34.2080185",
         "longitude": "-118.5988327",
         "email": "WBC@neworg.us",
-        "website": "www.NEW-WBC.ORG",
+        "website": "https://www.NEW-WBC.ORG",
         "phoneNumber": 2134832060,
         "socialMedia": "https://www.facebook.com/newwbc"
     },
@@ -1025,7 +1025,7 @@
         "latitude": "40.8744392",
         "longitude": "-124.0790979",
         "email": "info@norcalptac org",
-        "website": "www.norcalptac.org",
+        "website": "https://www.norcalptac.org",
         "phoneNumber": 7072677561,
         "socialMedia": "https://www.facebook.com/norcalptac"
     },
@@ -1063,7 +1063,7 @@
         "fullAddress": "520 E Street, Eureka, CA 95501",
         "latitude": "40.8011457",
         "longitude": "-124.1693743",
-        "website": "www.northcoastsbdc.org",
+        "website": "https://www.northcoastsbdc.org",
         "phoneNumber": "(707) 445-9720",
         "socialMedia": "Facebook: https://www.facebook.com/NorthCoastSBDC; Twitter: https://twitter.com/northcoastsbdc; Instagram: https://www.instagram.com/northcoastsbdc/; LinkedIn: https://www.linkedin.com/company/northcoastsbdc/"
     },
@@ -1083,7 +1083,7 @@
         "latitude": "33.1169868",
         "longitude": "-117.2769413",
         "email": "centerinfo@miracosta.edu",
-        "website": "www.SDIVSBDC.org",
+        "website": "https://www.SDIVSBDC.org",
         "phoneNumber": 7607958740,
         "socialMedia": "https://www.facebook.com/NORTHSANDIEGOSBDC"
     },
@@ -1160,7 +1160,7 @@
         "latitude": "34.0521042",
         "longitude": "-118.2626198",
         "email": "Abarrera@pacela.org",
-        "website": "www.pacela.org",
+        "website": "https://www.pacela.org",
         "phoneNumber": 2133539400
     },
     {
@@ -1179,7 +1179,7 @@
         "fullAddress": "3255 Wilshire Blvd. Suite 1501, Los Angeles, CA 90010",
         "latitude": "34.062321",
         "longitude": "-118.29319",
-        "website": "pcrsbdc.org",
+        "website": "https://pcrsbdc.org",
         "phoneNumber": "(213) 674-2696",
         "socialMedia": "Instagram @pcrsbdcla Twitter - @pcrsbdc Facebook - @sbdcpcr"
     },
@@ -1198,7 +1198,7 @@
         "fullAddress": "3035 E. Foothill Blvd., Room 122 Pasadena, CA 91107",
         "latitude": "34.15087",
         "longitude": "-118.08624",
-        "website": "pccsbdc.org",
+        "website": "https://pccsbdc.org",
         "phoneNumber": "(626) 585-3106",
         "socialMedia": "https://www.facebook.com/pasadenasbdc/, @pasadenasbdc"
     },
@@ -1294,7 +1294,7 @@
         "latitude": "32.6751517",
         "longitude": "-117.1069099",
         "email": "kibarra@swccd.edu",
-        "website": "www.SanDiegoWBC.org",
+        "website": "https://www.SanDiegoWBC.org",
         "phoneNumber": 6192166719
     },
     {
@@ -1313,7 +1313,7 @@
         "latitude": "32.6751517",
         "longitude": "-117.1069099",
         "email": "swcptac@swccd.edu",
-        "website": "www.socalptac.org",
+        "website": "https://www.socalptac.org",
         "phoneNumber": 6192166671
     },
     {
@@ -1331,7 +1331,7 @@
         "fullAddress": "1650 Mission St., Suite 101A San Francisco, CA 94103",
         "latitude": "37.7719827",
         "longitude": "-122.4195611",
-        "website": "www.sfsbdc.org",
+        "website": "https://www.sfsbdc.org",
         "phoneNumber": "(415) 937-7232"
     },
     {
@@ -1368,7 +1368,7 @@
         "latitude": "36.8092857",
         "longitude": "-119.7783412",
         "email": "jorgL@csufresno.edu",
-        "website": "www.sjvrdc.com",
+        "website": "https://www.sjvrdc.com",
         "phoneNumber": 5592780718
     },
     {
@@ -1405,7 +1405,7 @@
         "latitude": "37.3177477",
         "longitude": "-121.9477554",
         "email": "info@sanjosembdacenter.com",
-        "website": "www.asianinc.org/businesscenters/sanjose",
+        "website": "https://www.asianinc.org/businesscenters/sanjose",
         "phoneNumber": 4089988058
     },
     {
@@ -1442,7 +1442,7 @@
         "fullAddress": "6500 Soquel Drive, Aptos, CA 95060",
         "latitude": "36.9876108",
         "longitude": "-121.9259014",
-        "website": "www.santacruzsbdc.org",
+        "website": "https://www.santacruzsbdc.org",
         "phoneNumber": "(831) 479-6136"
     },
     {
@@ -1460,7 +1460,7 @@
         "fullAddress": "1850 Research Park Drive Suite 300, Davis, CA 95618",
         "latitude": "38.543175",
         "longitude": "-121.7318034",
-        "website": "itc.ucdavis.edu",
+        "website": "https://itc.ucdavis.edu",
         "phoneNumber": "(530) 752-8639"
     },
     {
@@ -1478,7 +1478,7 @@
         "fullAddress": "5800 Airport Rd Redding, CA 96002",
         "latitude": "40.5213546",
         "longitude": "-122.3044517",
-        "website": "www.sbdcsc.org",
+        "website": "https://www.sbdcsc.org",
         "phoneNumber": "(530) 222-8323"
     },
     {
@@ -1496,7 +1496,7 @@
         "fullAddress": "10183 Truckee Airport Rd,  Truckee, CA 96161",
         "latitude": "39.3168007",
         "longitude": "-120.1462009",
-        "website": "www.sierrasbdc.com",
+        "website": "https://www.sierrasbdc.com",
         "phoneNumber": "(530) 582-5022"
     },
     {
@@ -1514,7 +1514,7 @@
         "fullAddress": "1512 S. Oregon Street, Yreka, CA 96097",
         "latitude": "41.7178604",
         "longitude": "-122.6438702",
-        "website": "www.siskiyousbdc.org",
+        "website": "https://www.siskiyousbdc.org",
         "phoneNumber": "(530) 842-1638"
     },
     {
@@ -1532,7 +1532,7 @@
         "fullAddress": "500 Chadbourne Road Fairfield, CA 94534",
         "latitude": "38.2358527",
         "longitude": "-122.0818595",
-        "website": "www.solanosbdc.org",
+        "website": "https://www.solanosbdc.org",
         "phoneNumber": "(707) 646-1071"
     },
     {
@@ -1569,7 +1569,7 @@
         "latitude": "32.6751517",
         "longitude": "-117.1069099",
         "email": "sdsbdc@swccd.edu",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 6194826391
     },
     {
@@ -1588,7 +1588,7 @@
         "latitude": "32.7716583",
         "longitude": "-117.1915679",
         "email": "sbdc@sandiego.edu",
-        "website": "www.sdivsbdc.org",
+        "website": "https://www.sdivsbdc.org",
         "phoneNumber": 6192604547
     },
     {
@@ -1626,7 +1626,7 @@
         "latitude": "33.6524484",
         "longitude": "-117.831624",
         "email": "julie.cranston@uci.edu",
-        "website": "ociesmallbusiness.org",
+        "website": "https://ociesmallbusiness.org",
         "phoneNumber": 9498246835
     },
     {
@@ -1645,7 +1645,7 @@
         "latitude": "33.9788095",
         "longitude": "-117.374629",
         "email": "scott.brovsky@ucr.edu",
-        "website": "ociesmallbusiness.org",
+        "website": "https://ociesmallbusiness.org",
         "phoneNumber": 9514685026
     },
     {
@@ -1663,7 +1663,7 @@
         "fullAddress": "2180 Third Street La Verne, CA 91750",
         "latitude": "34.0998387",
         "longitude": "-117.7689012",
-        "website": "lavernesbdc.org",
+        "website": "https://lavernesbdc.org",
         "phoneNumber": "(909) 448-1567"
     },
     {
@@ -1682,7 +1682,7 @@
         "latitude": "36.8379064",
         "longitude": "-119.7175376",
         "email": "VCSBDC@cloviscollege.edu",
-        "website": "www.valleycommunitysbdc.com",
+        "website": "https://www.valleycommunitysbdc.com",
         "phoneNumber": 5593246403
     },
     {
@@ -1701,7 +1701,7 @@
         "latitude": "37.6446385",
         "longitude": "-120.9928892",
         "email": "kwinders@opportunitystanislaus.com",
-        "website": "www.ValleySierraSBDC.com",
+        "website": "https://www.ValleySierraSBDC.com",
         "phoneNumber": 2094226416
     },
     {
@@ -1720,7 +1720,7 @@
         "latitude": "34.423559",
         "longitude": "-119.668479",
         "email": "info@wevonline.org",
-        "website": "WWW.WEVONLINE.ORG",
+        "website": "https://WWW.WEVONLINE.ORG",
         "phoneNumber": 8059656073
     },
     {
@@ -1739,7 +1739,7 @@
         "latitude": "41.3135852",
         "longitude": "-122.3114344",
         "email": "info@e-jedi.org",
-        "website": "www.e-jedi.org",
+        "website": "https://www.e-jedi.org",
         "phoneNumber": 5303198560,
         "socialMedia": "Facebook: https://www.facebook.com/WomensBusinessCenteratJedi/; Twitter: https://twitter.com/ejediorg"
     }
