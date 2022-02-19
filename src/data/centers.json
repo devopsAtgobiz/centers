@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Access Plus Capital",
-        "languages": "English,Spanish,Hmong",
+        "languages": [ "English","Spanish","Hmong" ],
         "geographicAreas": "Fresno, Inyo, Kern, Kings, Madera, Mariposa, Merced, Monterey, San Joaquin, Santa Clara, Stanislaus, Tuolumne, Tulare, Mono, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -22,7 +22,7 @@
     {
         "id": 2,
         "name": "Access SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English","Spanish","Vietnamese","Korean","Japanese","Cantonese","French","German","Farsi","Tagalog","Arabic","Hmong","Russian","Portuguese","American Sign Language" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Glenn, Humboldt, Lake, Lassen, Marin, Mendocino, Modoc, Napa, Nevada, Placer, Plumas, Sacramento, San Francisco, San Mateo, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Tehama, Trinity, Yolo, Yuba, Sutter, San Joaquin, ",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -41,7 +41,7 @@
     {
         "id": 3,
         "name": "Agriculture Land-Based Training Association",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Monterey, Santa Cruz, San Benito, ",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -61,7 +61,7 @@
     {
         "id": 4,
         "name": "Alliance SBDC",
-        "languages": "English,Spanish,Mandarin,Catonese,Vietnamese,Tagalog,Korean,Japanese",
+        "languages": [ "English","Spanish","Mandarin","Catonese","Vietnamese","Tagalog","Korean","Japanese" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -101,7 +101,7 @@
     {
         "id": 6,
         "name": "AnewAmerica WBC – Oakland",
-        "languages": "English,Japanese,Khmer,Korean,Tagalog,Thai,Mandarin,Cantonese,Toisanese,Spanish",
+        "languages": [ "English","Japanese","Khmer","Korean","Tagalog","Thai","Mandarin","Cantonese","Toisanese","Spanish" ],
         "geographicAreas": "Alameda",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -121,7 +121,7 @@
     {
         "id": 7,
         "name": "AnewAmerica WBC – San Jose",
-        "languages": "English,Spanish,Mandarin",
+        "languages": [ "English","Spanish","Mandarin" ],
         "geographicAreas": "Santa Clara",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -141,7 +141,7 @@
     {
         "id": 8,
         "name": "Butte College SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English","Spanish","Vietnamese","Korean","Japanese","Cantonese","French","German","Farsi","Tagalog","Arabic","Hmong","Russian","Portuguese","American Sign Language" ],
         "geographicAreas": "Colusa, Butte, Glenn, Tehama, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -160,7 +160,7 @@
     {
         "id": 9,
         "name": "Cal Coastal SBDC",
-        "languages": "Spanish,English,Japanese",
+        "languages": [ "Spanish","English","Japanese" ],
         "geographicAreas": "Monterey, San Benito",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -180,7 +180,7 @@
     {
         "id": 10,
         "name": "Cal Poly CIE SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "San Luis Obispo",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -200,7 +200,7 @@
     {
         "id": 11,
         "name": "CalHispanic SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Sacramento",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -257,7 +257,7 @@
     {
         "id": 14,
         "name": "California FarmLink",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Butte, Contra Costa, El Dorado, Fresno, Kern, Marin, Mendocino, Merced, Monterey, Napa, Nevada, Sacramento, San Benito, San Diego, San Joaquin, San Luis Obispo, San Mateo, Santa Clara, Santa Cruz, Solano, Sonoma, Stanislaus, Tulare, Yolo",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -276,7 +276,7 @@
     {
         "id": 15,
         "name": "California Manufacturing Technology Center (CMTC)",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Klamath, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba",
         "hasStatewideService": true,
         "specificCommunities": [3],
@@ -296,7 +296,7 @@
     {
         "id": 16,
         "name": "California Manufacturing Technology Consulting",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Yuba, Yolo, Ventura, Tuolumne, Tulare, Trinity, Tehama, Sutter, Stanislaus, Sonoma, Solano, Siskiyou, Sierra, Shasta, Santa Cruz, Santa Clara, Santa Barbara, San Mateo, San Luis Obispo, San Joaquin, San Francisco, San Diego, San Bernardino, San Benito, Sacramento, Riverside, Plumas, Placer, Orange, Nevada, Napa, Monterey, Mono, Modoc, Merced, Mendocino, Mariposa, Marin, Madera, Los Angeles, Lassen, Lake, Kings, Kern, Inyo, Imperial, Humboldt, Glenn, Fresno, El Dorado, Del Norte, Contra Costa, Colusa, Calaveras, Butte, Amador, Alpine, Alameda, ",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -314,7 +314,7 @@
     {
         "id": 17,
         "name": "Capital Region SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English","Spanish","Vietnamese","Korean","Japanese","Cantonese","French","German","Farsi","Tagalog","Arabic","Hmong","Russian","Portuguese","American Sign Language" ],
         "geographicAreas": "Sacramento, Yolo, Yuba, Sutter, Colusa, El Dorado, and Placer",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -334,7 +334,7 @@
     {
         "id": 18,
         "name": "Caravanserai Project",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Imperial County, Los Angeles County, Riverside County, San Bernardino County, San Diego County, Yuba County, Yolo County, Ventura County, Tuolumne County, Tulare County, Trinity County, Tehama County, Sutter County, Stanislaus County, Sonoma County, Solano County, Siskiyou County, Sierra County, Shasta County, Santa Cruz County, Santa Clara County, Santa Barbara County, San Mateo County, San Luis Obispo County, San Joaquin County, San Francisco County, San Benito County, Sacramento County, Plumas County, Placer County, Orange County, Nevada County, Madera County, Marin County, Mariposa County, Mendocino County, Merced County, Modoc County, Mono County, Monterey County, Napa County, Lassen County, Lake County, Kings County, Kern County, Inyo County, Humboldt County, Glenn County, Fresno County, El Dorado County, Del Norte County, Contra Costa County, Colusa County, Alameda County, Alpine County, Amador County, Butte County, Calaveras County, ",
         "hasStatewideService": true,
         "specificCommunities": [4,1,2,5],
@@ -351,7 +351,7 @@
     {
         "id": 19,
         "name": "Central CA SBDC - Lead Center",
-        "languages": "English,Spanish,Hmong",
+        "languages": [ "English","Spanish","Hmong" ],
         "geographicAreas": "Stanislaus, Tuolomne, Mariposa, Merced, Madera, Fresno, Tulare, Kings, Kern, Inyo, Mono, San Luis Obispo, San Benito, Monterey",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -371,7 +371,7 @@
     {
         "id": 20,
         "name": "Chico State Enterprises EDA University Center",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Butte, Colusa, Glenn, Lake, Lassen, Modoc, Plumas, Shasta, Sierra, Siskiyou, Tehama, Trinity, Yuba",
         "hasStatewideService": false,
         "specificCommunities": [4,3,2],
@@ -389,7 +389,7 @@
     {
         "id": 21,
         "name": "Fresno State EDA University Center ",
-        "languages": "English,Spanish,Hmong,Punjabi",
+        "languages": [ "English","Spanish","Hmong","Punjabi" ],
         "geographicAreas": "Fresno, Kern, Kings, Madera, Merced, San Joaquin, Stanislaus, Tulare, Tuolumne",
         "hasStatewideService": false,
         "specificCommunities": [4,2,5,1,3],
@@ -407,7 +407,7 @@
     {
         "id": 22,
         "name": "Coachella Valley SBDC",
-        "languages": "English,Spanish,Portuguese",
+        "languages": [ "English","Spanish","Portuguese" ],
         "geographicAreas": "Riverside,  San Bernardino",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -427,7 +427,7 @@
     {
         "id": 23,
         "name": "Coachella Valley WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Riverside",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -447,7 +447,7 @@
     {
         "id": 24,
         "name": "College of The Canyons SBDC",
-        "languages": "English,American Sign Language,Spanish,German,Greek,Armenian,Farsi,Hindi,Punjabi,Pahari,Gujarati,Marathi",
+        "languages": [ "English,American Sign Language,Spanish,German,Greek,Armenian,Farsi,Hindi,Punjabi,Pahari,Gujarati,Marathi" ],
         "geographicAreas": "Los Angeles",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -466,7 +466,7 @@
     {
         "id": 25,
         "name": "Connect SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -486,7 +486,7 @@
     {
         "id": 26,
         "name": "Contra Costa SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Contra Costa",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -506,7 +506,7 @@
     {
         "id": 27,
         "name": "CSU Bakersfield SBDC",
-        "languages": "English,Spanish,Armenian,Hmong,Punjabi",
+        "languages": [ "English,Spanish,Armenian,Hmong,Punjabi" ],
         "geographicAreas": "Kern,  Inyo,  Mono",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -544,7 +544,7 @@
     {
         "id": 29,
         "name": "East County SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -564,7 +564,7 @@
     {
         "id": 30,
         "name": "Economic Development Collaborative Ventura County SBDC",
-        "languages": "English,Spanish,Mandarin,Russian,Korean",
+        "languages": [ "English,Spanish,Mandarin,Russian,Korean" ],
         "geographicAreas": "Los Angeles, Santa Barbara, Ventura, ",
         "hasStatewideService": false,
         "specificCommunities": [4,3,1,5,2],
@@ -583,7 +583,7 @@
     {
         "id": 31,
         "name": "El Camino College SBDC",
-        "languages": "English,Spanish,French,Croatian",
+        "languages": [ "English,Spanish,French,Croatian" ],
         "geographicAreas": "Los Angeles, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -602,7 +602,7 @@
     {
         "id": 32,
         "name": "El Pajaro Community Development Corporation",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Monterey,  San Benito,  Santa Cruz",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -622,7 +622,7 @@
     {
         "id": 33,
         "name": "Export SBDC at San Diego WTC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -642,7 +642,7 @@
     {
         "id": 34,
         "name": "Fresno Area Hispanic Foundation",
-        "languages": "English,Spanish,Hmong,Punjabi",
+        "languages": [ "English,Spanish,Hmong,Punjabi" ],
         "geographicAreas": "Fresno,  Kern,  Kings,  Madera,  Merced,  San Joaquin,  Stanislaus,  Tulare",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -680,7 +680,7 @@
     {
         "id": 36,
         "name": "Imperial Valley SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Imperial",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -738,7 +738,7 @@
     {
         "id": 39,
         "name": "Inland Empire SBDC",
-        "languages": "English,Cantonese,Mandarin,Spanish,Ukrainian",
+        "languages": [ "English,Cantonese,Mandarin,Spanish,Ukrainian" ],
         "geographicAreas": "Riverside,  San Bernardino",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -758,7 +758,7 @@
     {
         "id": 40,
         "name": "Inland Empire WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Riverside,  San Bernardino",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -778,7 +778,7 @@
     {
         "id": 41,
         "name": "International Rescue Committee SBDC",
-        "languages": "English,Spanish,Arabic,Farsi,Somali,Swahili,Turkish,Russian,French,Portuguese",
+        "languages": [ "English,Spanish,Arabic,Farsi,Somali,Swahili,Turkish,Russian,French,Portuguese" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -798,7 +798,7 @@
     {
         "id": 42,
         "name": "LA County PTAC",
-        "languages": "English,Spanish,Korean",
+        "languages": [ "English,Spanish,Korean" ],
         "geographicAreas": "Los Angeles",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -818,7 +818,7 @@
     {
         "id": 43,
         "name": "Long Beach SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Los Angeles, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -856,7 +856,7 @@
     {
         "id": 45,
         "name": "Los Angeles SBDC Lead Center",
-        "languages": "English,Spanish,Romanian,Tagolog,Polish",
+        "languages": [ "English,Spanish,Romanian,Tagolog,Polish" ],
         "geographicAreas": "Los Angeles, Santa Barbara, Ventura, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -875,7 +875,7 @@
     {
         "id": 46,
         "name": "LTSC API Small Business Program Women's Business Center",
-        "languages": "English,Mandarin,Korean",
+        "languages": [ "English,Mandarin,Korean" ],
         "geographicAreas": "Los Angeles",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -895,7 +895,7 @@
     {
         "id": 47,
         "name": "Main Street Launch",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Stanislaus, Alameda, San Francisco, ",
         "hasStatewideService": false,
         "specificCommunities": [4,2,5],
@@ -915,7 +915,7 @@
     {
         "id": 48,
         "name": "Marin SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Marin, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -935,7 +935,7 @@
     {
         "id": 49,
         "name": "MCSC Kern WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Kern",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -953,7 +953,7 @@
     {
         "id": 50,
         "name": "MCSC San Luis Obispo WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Luis Obispo, Monterey",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -972,7 +972,7 @@
     {
         "id": 51,
         "name": "Mendocino WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Mendocino",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -992,7 +992,7 @@
     {
         "id": 52,
         "name": "New Economics for Women - Women's Business Center",
-        "languages": "English,Spanish,Russian,Armenian",
+        "languages": [ "English,Spanish,Russian,Armenian" ],
         "geographicAreas": "Los Angeles",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -1012,7 +1012,7 @@
     {
         "id": 53,
         "name": "NorCal PTAC",
-        "languages": "English,Tagalog",
+        "languages": [ "English,Tagalog" ],
         "geographicAreas": "Alameda, Contra Costa, Del Norte, Humboldt, Marin, Mendocino, Napa, San Francisco, San Mateo, Santa Clara , Shasta, Siskiyou, Solano, Sonoma, Trinity",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1032,7 +1032,7 @@
     {
         "id": 54,
         "name": "NorCal VBOC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Placer, Plumas, Sacramento, San Benito, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, Yuba",
         "hasStatewideService": false,
         "specificCommunities": [5],
@@ -1051,7 +1051,7 @@
     {
         "id": 55,
         "name": "North Coast SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Humboldt, Del Norte, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1070,7 +1070,7 @@
     {
         "id": 56,
         "name": "North San Diego SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1090,7 +1090,7 @@
     {
         "id": 57,
         "name": "OCIE SBDC Lead Center",
-        "languages": "English,Arabic,Armenian,Cantonese,Chieu Chow,Italian,Japanese,Farsi,French,German,Gujarati,Hindi,Korean,Mandarin,Marathi,Russian,Spanish,Urdu,Vietnamese",
+        "languages": [ "English,Arabic,Armenian,Cantonese,Chieu Chow,Italian,Japanese,Farsi,French,German,Gujarati,Hindi,Korean,Mandarin,Marathi,Russian,Spanish,Urdu,Vietnamese" ],
         "geographicAreas": "Orange, Riverside, San Bernardino",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1110,7 +1110,7 @@
     {
         "id": 58,
         "name": "Octane - Launchpad SBDC",
-        "languages": "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish",
+        "languages": [ "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish" ],
         "geographicAreas": "Orange, Inland Empire",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1129,7 +1129,7 @@
     {
         "id": 59,
         "name": "Orange County Hispanic Chamber of Commerce - The Finance Center",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Orange",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -1147,7 +1147,7 @@
     {
         "id": 60,
         "name": "Pacific Asian Consortium in Employment",
-        "languages": "English,Spanish,Korean,Vietnamese,Mandarin,Cantonese,Thai,Taglog,Japanese,Farsi,French,Hindi",
+        "languages": [ "English,Spanish,Korean,Vietnamese,Mandarin,Cantonese,Thai,Taglog,Japanese,Farsi,French,Hindi" ],
         "geographicAreas": "Imperial,  Los Angeles,  Orange,  Riverside,  San Bernardino,  San Diego,  Ventura",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1166,7 +1166,7 @@
     {
         "id": 61,
         "name": "Pacific Coast Regional SBDC",
-        "languages": "English,Spanish,French,Arabic",
+        "languages": [ "English,Spanish,French,Arabic" ],
         "geographicAreas": "Los Angeles, ",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1186,7 +1186,7 @@
     {
         "id": 62,
         "name": "Pasadena City College SBDC",
-        "languages": "English,Spanish,Mandarin,Russian,Korean",
+        "languages": [ "English,Spanish,Mandarin,Russian,Korean" ],
         "geographicAreas": "Los Angeles, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1205,7 +1205,7 @@
     {
         "id": 63,
         "name": "Rancho Santiago Community College District - Digital Marketing Lab SBDC",
-        "languages": "English,Farsi,Korean,Portuguese,Spanish,Vietnamese",
+        "languages": [ "English,Farsi,Korean,Portuguese,Spanish,Vietnamese" ],
         "geographicAreas": "Orange",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1242,7 +1242,7 @@
     {
         "id": 65,
         "name": "Renaissance WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Francisco",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -1281,7 +1281,7 @@
     {
         "id": 67,
         "name": "San Diego & Imperial WBC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "Imperial,  San Diego",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -1319,7 +1319,7 @@
     {
         "id": 69,
         "name": "San Francisco SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "San Francisco, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1337,7 +1337,7 @@
     {
         "id": 70,
         "name": "San Joaquin SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "San Joaquin, ",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1355,7 +1355,7 @@
     {
         "id": 71,
         "name": "San Joaquin Valley RDC",
-        "languages": "English,Spanish,Hmong,Punjabi,Triqui",
+        "languages": [ "English,Spanish,Hmong,Punjabi,Triqui" ],
         "geographicAreas": "Fresno,  Kern,  Kings,  Madera,  Merced,  San Joaquin,  Stanislaus,  Tulare",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1374,7 +1374,7 @@
     {
         "id": 72,
         "name": "San Joaquin Valley Rural Development Center",
-        "languages": "English,Spanish,Hmong,Punjabi,Triqui",
+        "languages": [ "English,Spanish,Hmong,Punjabi,Triqui" ],
         "geographicAreas": "Fresno, Kern, Kings, Madera, Merced, San Joaquin, Tulare, Stanislaus, ",
         "hasStatewideService": false,
         "specificCommunities": [4,2,5,1],
@@ -1392,7 +1392,7 @@
     {
         "id": 73,
         "name": "San Jose MBDA Business Center",
-        "languages": "Spanish,Mandarin,Cantonese,Vietnamese,English,Hindi",
+        "languages": [ "Spanish,Mandarin,Cantonese,Vietnamese,English,Hindi" ],
         "geographicAreas": "Alameda,  Contra Costa,  Fresno,  Kern,  Kings,  Madera,  Marin,  Mariposa,  Merced,  Monterey,  Napa,  San Benito,  San Francisco,  San Mateo,  Santa Clara,  Santa Cruz,  Solano,  Sonoma,  Tulare",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -1411,7 +1411,7 @@
     {
         "id": 74,
         "name": "San Mateo SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "San Mateo",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1430,7 +1430,7 @@
     {
         "id": 75,
         "name": "Santa Cruz SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Santa Cruz, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1448,7 +1448,7 @@
     {
         "id": 76,
         "name": "SBDCtech at UC Davis Venture Catalyst",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Glenn, Humboldt, Lake, Lassen, Marin, Mendocino, Modoc, Napa, Nevada, Placer, Plumas, Sacramento, San Francisco, San Joaquin, San Mateo, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Sutter, Tehama, Trinity, Yolo, Yuba, ",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1466,7 +1466,7 @@
     {
         "id": 77,
         "name": "Shasta-Cascade SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Shasta, Trinity, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,2,3,5],
@@ -1484,7 +1484,7 @@
     {
         "id": 78,
         "name": "Sierra SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "El Dorado, Lassen, Modoc, Nevada, Placer, Plumas, Sierra, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1502,7 +1502,7 @@
     {
         "id": 79,
         "name": "Siskiyou SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Siskiyou, ",
         "hasStatewideService": false,
         "specificCommunities": [1,4,3,2,5],
@@ -1520,7 +1520,7 @@
     {
         "id": 80,
         "name": "Solano-Napa SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Napa, Solano, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1538,7 +1538,7 @@
     {
         "id": 81,
         "name": "Sonoma SBDC",
-        "languages": "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language",
+        "languages": [ "English,Spanish,Vietnamese,Korean,Japanese,Cantonese,French,German,Farsi,Tagalog,Arabic,Hmong,Russian,Portuguese,American Sign Language" ],
         "geographicAreas": "Sonoma",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1556,7 +1556,7 @@
     {
         "id": 82,
         "name": "South San Diego SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1575,7 +1575,7 @@
     {
         "id": 83,
         "name": "The Brink SBDC",
-        "languages": "English,Spanish",
+        "languages": [ "English,Spanish" ],
         "geographicAreas": "San Diego,  Imperial",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1594,7 +1594,7 @@
     {
         "id": 84,
         "name": "UC Merced SBDC",
-        "languages": "English,Spanish,Japanese,Portuguese ",
+        "languages": [ "English,Spanish,Japanese,Portuguese" ],
         "geographicAreas": "Stanislaus,  Tuolomne,  Mariposa,  Merced,  Madera,  Fresno,  Tulare,  Kings,  Kern,  Inyo,  Mono,  San Luis Obispo,  San Benito,  Monterey",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1613,7 +1613,7 @@
     {
         "id": 85,
         "name": "UCI SBDC @ Beall Applied Innovation Center",
-        "languages": "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish",
+        "languages": [ "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish" ],
         "geographicAreas": "Orange",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1632,7 +1632,7 @@
     {
         "id": 86,
         "name": "University of California Riverside - EPIC SBDC",
-        "languages": "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish",
+        "languages": [ "English,Arabic,Farsi,French,German,Gujarati,Hindi,Marathi,Spanish" ],
         "geographicAreas": "Riverside,  San Bernardino",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1651,7 +1651,7 @@
     {
         "id": 87,
         "name": "University of La Verne SBDC",
-        "languages": "English,Dutch,Afrikaans,Flemish",
+        "languages": [ "English","Dutch","Afrikaans","Flemish" ],
         "geographicAreas": "Los Angeles, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1669,7 +1669,7 @@
     {
         "id": 88,
         "name": "Valley Community SBDC",
-        "languages": "English,Spanish,Zapotec,Hmong,Punjabi ",
+        "languages": [ "English","Spanish","Zapotec","Hmong","Punjabi" ],
         "geographicAreas": "Fresno,  Madera,  Tulare,  Kings",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1688,7 +1688,7 @@
     {
         "id": 89,
         "name": "Valley Sierra SBDC",
-        "languages": "Spanish,English,Mandarin,Vietnamese,Farsi,Pasto,Dari,Hindi,Punjabi,Marat",
+        "languages": [ "Spanish","English","Mandarin","Vietnamese","Farsi","Pasto","Dari","Hindi","Punjabi","Marat" ],
         "geographicAreas": "Stanislaus, Tuolomne",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1707,7 +1707,7 @@
     {
         "id": 90,
         "name": "Women's Economic Ventures",
-        "languages": "English,Spanish",
+        "languages": [ "English","Spanish" ],
         "geographicAreas": "Santa Barbara",
         "hasStatewideService": false,
         "specificCommunities": [2],
