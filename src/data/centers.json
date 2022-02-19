@@ -81,7 +81,7 @@
     {
         "id": 5,
         "name": "American Indian Chamber Education Fund PTAC",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Klamath, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba",
         "hasStatewideService": true,
         "specificCommunities": [1],
@@ -218,7 +218,7 @@
     {
         "id": 12,
         "name": "California Asian Pacific Chamber of Commerce",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Sacramento",
         "hasStatewideService": false,
         "specificCommunities": [4],
@@ -237,7 +237,7 @@
     {
         "id": 13,
         "name": "California Capital Women's Business Center",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "El Dorado, Nevada, Placer, Sacramento, San Joaquin, Sutter, Yolo, Yuba",
         "hasStatewideService": false,
         "specificCommunities": [2],
@@ -526,7 +526,7 @@
     {
         "id": 28,
         "name": "East Bay SBDC",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Alameda",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -662,7 +662,7 @@
     {
         "id": 35,
         "name": "Fresno Metro Black Chamber Foundation ",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Fresno, Kern, Kings, San Joaquin, Madera, ",
         "hasStatewideService": false,
         "specificCommunities": [4,2],
@@ -700,7 +700,7 @@
     {
         "id": 37,
         "name": "Indian Dispute Resolution Servivces;Inc.",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Inyo, Imperial, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Mono, Modoc, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Luis Obispo, San Joaquin, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yuba, Yolo, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1],
@@ -720,7 +720,7 @@
     {
         "id": 38,
         "name": "Inland Empire Center for Entrepreneurship",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "San Bernardino, Butte, El Dorado, Glenn, Los Angeles, Placer, Riverside, Sacramento, Shasta, Siskiyou, Sutter, Tehama, Yuba, ",
         "hasStatewideService": false,
         "specificCommunities": [3,1,4,2,5],
@@ -837,7 +837,7 @@
     {
         "id": 44,
         "name": "Los Angeles Area Chamber of Commerce ",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Los Angeles, Orange, Riverside, San Bernardino, Ventura, ",
         "hasStatewideService": false,
         "specificCommunities": [4,1,3,2,5],
@@ -1223,7 +1223,7 @@
     {
         "id": 64,
         "name": "Renaissance East Bay",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Alameda,  Contra Costa",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1262,7 +1262,7 @@
     {
         "id": 66,
         "name": "Sacramento Valley SBDC",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Sacramento",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1300,7 +1300,7 @@
     {
         "id": 68,
         "name": "San Diego, Orange, Imperial PTAC",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Imperial,  Orange,  San Diego",
         "hasStatewideService": false,
 		"specificCommunities": [],
@@ -1726,7 +1726,7 @@
     {
         "id": 91,
         "name": "Women's Business Center at JEDI",
-        "languages": "English",
+        "languages": [ "English" ],
         "geographicAreas": "Siskiyou",
         "hasStatewideService": false,
         "specificCommunities": [2],
